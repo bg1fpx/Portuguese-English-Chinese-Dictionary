@@ -1,9 +1,9 @@
-# Portuguese-English-Chinese Dictionary
+# Portuguese-English-Chinese Dictionary [葡汉词典]
 
-A minimalistic and trilingual Portuguese-English-Chinese Dictionary. You can enter a Portuguese keyword to search for the equivalent English and Chinese words, and vice versa.
+A minimalistic trilingual dictionary
 
-http://www.italian.org.cn/app/ (for Android & Babylon)
+http://italian.org.cn/app/
 
-http://dictware.co.nf (for Android & Babylon)
+http://dictware.co.nf
 
-http://pecdict.co.nf (online dictionary)
+http://pecdict.co.nf
