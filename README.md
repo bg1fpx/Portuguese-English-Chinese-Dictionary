@@ -1,9 +1,9 @@
-# Portuguese-English-Chinese Dictionary [葡汉词典]
+# Portuguese-English-Chinese Dictionary | 葡英汉词典
 
 A minimalistic trilingual dictionary
 
-http://italian.org.cn/app/
+极简主义风格的三语词典
 
-http://dictware.co.nf
+www.italian.org.cn/app/
 
-http://pecdict.co.nf
+www.zhangyichi.com
